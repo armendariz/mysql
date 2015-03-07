@@ -1,0 +1,277 @@
+number|description
+10.086|Aquaculture Grants Program (AGP)
+10.219|Biotechnology Risk Assessment Research
+10.315|Trade Adjustment Assistance for Farmers Training Coordination Program (TAAF)
+10.406|Farm Operating Loans
+10.557|Special Supplemental Nutrition Program for Women+, Infants+, and Children
+10.567|Food Distribution Program on Indian Reservations
+10.568|Emergency Food Assistance Program (Administrative Costs)
+10.578|WIC Grants To States (WGS)
+10.579|Child Nutrition Discretionary Grants Limited Availability
+10.609|Trade Adjustment Assistance
+10.687|RECOVERY ACT OF 2009: CAPITAL IMPROVEMENT AND MAINTENANCE
+10.688|RECOVERY ACT OF 2009: WILDLAND FIRE MANAGEMENT
+10.780|Community Facilities Loans and Grants
+10.781|Water and Waste Disposal Systems for Rural Communities - ARRA
+10.782|Business and Industry Loans
+10.783|Rural Business Enterprise Grants
+10.786|Distance Learning and Telemedicine Loans and Grants - ARRA
+10.787|Broadband Initiatives Program
+10.788|Very Low to Moderate Income Housing Loans
+10.789|Very Low to Moderate Income Housing Loans
+10.868|Rural Energy for America Program - ARRA
+10.904|Watershed Protection and Flood Prevention
+10.916|Watershed Rehabilitation Program
+10.922|Healthy Forests Reserve Program (HFRP)
+10.923|Emergency Watershed Protection Program
+11.009|TV Converter Box Coupon Program Consumer Education and Technical Assistance
+11.300|Investments for Public Works and Economic Development Facilities
+11.307|Economic Adjustment Assistance
+11.463|Habitat Conservation
+11.553|Special Projects
+11.557|Broadband Technology Opportunities Program (BTOP)
+11.558|State Broadband Data and Development Grant Program
+11.609|Measurement and Engineering Research and Standards
+11.618|National Institute of Standards and Technology Construction Grant Program
+12.400|Military Construction, National Guard
+12.401|National Guard Military Operations and Maintenance (O&M;) Projects
+12.800|Air Force Defense Research Sciences Program
+14.253|Community Development Block Grant ARRA Entitlement Grants (CDBG-R)(Recovery Act Funded)
+14.254|Community Development Block Grants/Special Purpose Grants/Insular Areas (Recovery Act Funded)
+14.255|"Community Development Block Grants/State's program and Non-Entitlement Grants in Hawaii (Recovery Act Funded)"
+14.256|Neighborhood Stabilization Program (Recovery Act Funded)
+14.257|Homelessness Prevention and Rapid Re-Housing Program (Recovery Act Funded)
+14.258|Tax Credit Assistance Program (Recovery Act Funded)
+14.317|Section 8 Housing Assistance Payments Program Special Allocations (Recovery Act Funded)
+14.318|Assisted Housing Stability and Energy and Green Retrofit Investments Program (Recovery Act Funded)
+14.882|Native American Housing Block Grants (Formula) Recovery Act Funded
+14.883|Native Hawaiian Housing Block Grants (Recovery Act Funded)
+14.884|Public Housing Capital Fund Competitive (Recovery Act Funded)
+14.885|Public Housing Capital Fund Stimulus (Formula) Recovery Act Funded
+14.886|Indian Community Development Block Grant Program  (Recovery Act Funded)
+14.887|Native American Housing Block Grants (Competitive) Recovery Act Funded
+14.907|Lead-Based Paint Hazard Control in Privately-Owned Housing (Recovery Act Funded)
+14.908|Healthy Homes Demonstration Grants (Recovery Act Funded)
+14.909|Lead Hazard Reduction Demonstration Grant Program (Recovery Act Funded)
+14.910|Healthy Homes Technical Studies Grants (Recovery Act Funded)
+15.033|Road Maintenance - Indian Roads
+15.047|Indian Education Facilities, Operations, and Maintenance
+15.048|Bureau of Indian Affairs Facilities - Operations and Maintenance
+15.108|Indian Employment Assistance
+15.141|Indian Housing Assistance
+15.225|Recreation Resource Management
+15.231|Fish, Wildlife and Plant Conservation Resource Management
+15.233|Forests and Woodlands Resource Management
+15.236|Environmental Quality and Protection Resource Management
+15.504|Water Reclamation and Reuse Program
+15.507|Water 2025
+15.509|Colorado River Basin Salinity Control Program
+15.510|Colorado Ute Indian Water Rights Settlement Act
+15.512|Central Valley Project Improvement Act+, Title XXXIV
+15.514|Reclamation States Emergency Drought Relief
+15.516|Fort Peck Reservation Rural Water System
+15.517|Fish and Wildlife Coordination Act
+15.518|Garrison Diversion Unit
+15.520|Lewis and Clark Rural Water System
+15.521|Lower Rio Grande Valley Water Resources Conservation and Improvement
+15.522|Mni Wiconi Rural Water Supply Project
+15.523|Perkins County Rural Water System
+15.524|Recreation Resources Management
+15.525|"Rocky Boy's/North Central Montana Regional Water System"
+15.528|St. Mary Storage Unit Facilities Rehabilitation Project
+15.531|Yakima River Basin Water Enhancement Project (YRBWEP)
+15.532|Central Valley Project+, Trinity River Division+, Trinity River Fish and Wildlife Management
+15.534|Miscellaneous Public Law 93-638 Contracts+, Grants+, and Cooperative Agreements
+15.535|Upper Colorado River Basin Fish and Wildlife Mitigation Program.
+15.536|Deschutes River Conservancy (DRC)
+15.537|Middle Rio Grande Endangered Species Collaborative Program
+15.538|Lower Colorado River Multi-Species Conservation Program.
+15.656|Recovery Act Funds - Habitat Enhancement, Restoration and Improvement.
+15.657|Endangered Species Conservation - Recovery Implementation Funds
+15.807|Earthquake Hazards Reduction Program
+15.817|National Geospatial Program: Building The National Map
+15.818|Volcano Hazards Program Research and Monitoring.
+15.931|Conservation Activities by Youth Service Organizations
+15.932|Preservation of Historic Structures on the Campuses of Historically Black Colleges and Universities (HBCUs).
+15.934|Abandoned Mine Hazard Mitigation
+15.935|National Trails System Projects
+16.526|OVW Technical Assistance Initiative
+16.556|State Domestic Violence and Sexual Assault Coalitions
+16.557|Tribal Domestic Violence and Sexual Assault Coalitions Grant Program
+16.587|Violence Against Women Discretionary Grants for Indian Tribal Governments
+16.588|Violence Against Women Formula Grants
+16.710|Public Safety Partnership and Community Policing Grants
+16.800|RECOVERY ACT - Internet Crimes against Children Task Force Program (ICAC)
+16.801|RECOVERY ACT - STATE VICTIM ASSISTANCE FORMULA GRANT PROGRAM
+16.802|RECOVERY ACT - STATE VICTIM COMPENSATION FORMULA GRANT PROGRAM
+16.803|RECOVERY ACT - EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG) PROGRAM  / GRANTS TO STATES AND TERRITORIES
+16.804|RECOVERY ACT - EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT (JAG) PROGRAM / GRANTS TO UNITS OF LOCAL GOVERNMENT
+16.805|Transitional Housing Assistance Grants for Victims of Domestic Violence+, Stalking+, or Sexual Assault Program
+16.806|Grants to Indian Tribal Governments Program
+16.807|RECOVERY ACT - VOCA CRIME VICTIM ASSISTANCE DISCRETIONARY GRANT PROGRAM
+16.808|RECOVERY ACT - EDWARD BYRNE MEMORIAL COMPETITIVE GRANT PROGRAM
+16.809|Recovery Act - State and Local Law Enforcement Assistance Program: Combating Criminal Narcotics Activity Stemming from the Southern Border of the United States Competitive Grant Program
+16.810|Recovery Act - Assistance to Rural Law Enforcement to Combat Crime and Drugs Competitive Grant Program
+16.811|Recovery Act - CORRECTIONAL FACILITIES ON TRIBAL LANDS
+17.151|Employee Benefits Security Administration (EBSA)
+17.207|Employment Service/Wagner-Peyser Funded Activities
+17.225|Unemployment Insurance
+17.235|Senior Community Service Employment Program
+17.258|WIA Adult Program
+17.259|WIA Youth Activities
+17.260|WIA Dislocated  Workers
+17.265|Native American Employment and Training
+17.274|YOUTHBUILD
+17.275|PROGRAM OF COMPETITIVE GRANTS FOR WORKER TRAINING AND PLACEMENT IN HIGH GROWTH AND EMERGING INDUSTRY SECTORS
+17.276|Health Coverage Tax Credit (HCTC)
+17.277|Workforce Investment Act (WIA) National Emergency Grants
+17.278|WIA Dislocated Worker Formula Grants
+17.301|Non-Discrimination and Affirmative Action by Federal Contractors and Federally Assisted Construction Contractors
+17.303|Wage and Hour Standards
+17.311|Federal Transit Employee Protection Certifications: Office of Labor-Management Standards
+17.503|Occupational Safety and Health_State Program
+17.505|OSHA Data Initiative
+20.106|Airport Improvement Program
+20.205|Highway Planning and Construction
+20.315|National Railroad Passenger Corporation Grants
+20.319|High-Speed Rail Corridors and Intercity Passenger Rail Service - Capital Assistance Grants
+20.500|Federal Transit_Capital Investment Grants
+20.505|Federal Transit_Metropolitan Planning Grants
+20.507|Federal Transit_Formula Grants
+20.509|Formula Grants for Other Than Urbanized Areas
+20.523|CAPITAL ASSISTANCE PROGRAM FOR REDUCING ENERGY CONSUMPTION AND GREENHOUSE GAS EMISSIONS
+20.814|Assistance to Small Shipyards
+20.904|Bonding Assistance Program
+20.932|Surface Transportation - Discretionary Grants for Capital Investment
+21.020|Community Development Financial Institutions Program
+43.004|Aeronautics, Recovery Act
+43.005|Exploration, Recovery Act
+43.006|Science, Recovery Act
+45.024|Promotion of the Arts_Grants to Organizations and Individuals
+45.025|Promotion of the Arts_Partnership Agreements
+47.082|TRANS-NSF RECOVERY ACT RESEARCH SUPPORT
+55.518|State Senior Environmental Employment
+57.005|ECONOMIC RECOVERY PAYMENTS
+59.056|Secondary Market Lending Authority
+59.057|"America's Recovery Capital Loans"
+64.005|Grants to States for Construction of State Home Facilities
+64.131|American Recovery and Reinvestment Act of 2009 - One Time Payment
+66.039|National Clean Diesel Funding Assistance Program
+66.040|State Clean Diesel Grant Program
+66.418|Construction Grants for Wastewater Treatment Works
+66.454|Water Quality Management Planning
+66.456|National Estuary Program
+66.458|Capitalization Grants for Clean Water State Revolving Funds
+66.468|Capitalization Grants for Drinking Water State Revolving Funds
+66.508|Senior Environmental Employment Program
+66.518|State Senior Environmental Employment Program
+66.802|Superfund State, Political Subdivision, and Indian Tribe Site-Specific Cooperative Agreements
+66.805|Leaking Underground Storage Tank Trust Fund Corrective Action Program
+66.815|Brownfield Job Training Cooperative Agreements
+66.818|Brownfields Assessment and Cleanup Cooperative Agreements
+81.041|State Energy Program
+81.042|Weatherization Assistance for Low-Income Persons
+81.049|Office of Science Financial Assistance Program
+81.086|Conservation Research and Development
+81.087|Renewable Energy Research and Development
+81.089|Fossil Energy Research and Development
+81.117|Energy Efficiency and Renewable Energy Information Dissemination+, Outreach+, Training and Technical Analysis/Assistance
+81.122|Electricity Delivery and Energy Reliability, Research, Development and Analysis
+81.126|Federal Loan Guarantees for Innovative Energy Technologies
+81.127|Energy Efficient Appliance Rebate Program (EEARP)
+81.128|Energy Efficiency and Conservation Block Grant Program (EECBG)
+81.129|Energy Efficiency and Renewable Energy Technology Deployment, Demonstration and Commercialization
+81.130|State Senior Environmental Employment
+81.131|Expand and Extend Clean Coal Power Initiative
+81.132|Geologic Sequestration Site Characterization
+81.133|Geologic Sequestration Training and Research Grant Program
+81.134|Industrial Carbon Capture and Storage (CCS) Application
+81.135|Advanced Research and Projects Agency - Energy Financial Assistance Program
+84.033|Federal Work-Study Program
+84.063|Federal Pell Grant Program
+84.384|Statewide Data Systems, Recovery Act
+84.385|Teacher Incentive Fund, Recovery Act
+84.386|Education Technology State Grants, Recovery Act
+84.387|Education for Homeless Children and Youth, Recovery Act
+84.388|School Improvement Grants, Recovery Act
+84.389|Title I Grants to Local Educational Agencies, Recovery Act
+84.390|Rehabilitation Services-Vocational Rehabilitation Grants to States, Recovery Act
+84.391|Special Education Grants to States, Recovery Act
+84.392|Special Education - Preschool Grants, Recovery Act
+84.393|Special Education - Grants for Infants and Families, Recover Act
+84.394|State Fiscal Stabilization Fund (SFSF) -  Education State Grants, Recovery Act
+84.395|State Fiscal Stabilization Fund (SFSF) - Race-to-the-Top Incentive Grants, Recovery Act
+84.396|State Fiscal Stabilization Fund (SFSF) - What Works and Innovation Fund, Recovery Act
+84.397|State Fiscal Stabilization Fund (SFSF) - Government Services, Recovery Act
+84.398|Independent Living State Grants, Recovery Act
+84.399|Independent Living Services for Older Individuals Who are Blind, Recovery Act
+84.400|Centers for Independent Living, Recovery Act.
+84.401|Impact Aid School Construction, Recovery Act
+84.402|Consolidated Grants to the Outlying Areas, Recovery Act
+84.404|Impact Aid - School Construction Formula Grants, Recovery Act
+84.405|Teacher Quality Partnerships, Recovery Act
+84.406|Capacity Building for Traditionally Underserved Populations, Recovery Act.
+93.090|Guardianship Assistance
+93.400|National Health Service Corps Scholarship Program
+93.401|ARRA - National Health Service Corps Loan Repayment
+93.402|ARRA - State Loan Repayment Program
+93.403|ARRA - Training in Primary Care Medicine and Dentistry
+93.404|ARRA - Dental Public Health Residency Training Grants
+93.405|ARRA - Public Health Traineeship Program
+93.406|Nursing Education Loan Repayment Program (NELRP)
+93.407|ARRA - Scholarships for Disadvantaged Students
+93.408|ARRA - Nurse Faculty Loan Program
+93.409|Faculty Loan Repayment Programs
+93.410|ARRA - Licensure Portability Grant Program
+93.411|ARRA - Equipment to Enhance Training for Health Professionals
+93.412|ARRA - Preventive Medicine Residency Program
+93.414|ARRA - State Primary Care Offices
+93.415|ARRA - Centers of Excellence
+93.416|ARRA - Health Careers Opportunity Program
+93.417|ARRA - Nursing Workforce Diversity
+93.418|ARRA - Emergency Medical Services for Children
+93.419|ARRA - Maternal and Child Health (MCH) Pediatric Research Network Program
+93.658|Foster Care_Title IV-E
+93.659|Adoption Assistance
+93.701|TRANS-NIH RECOVERY ACT RESEARCH SUPPORT
+93.702|NATIONAL CENTER FOR RESEARCH RESOURCES, RECOVERY ACT CONSTRUCTION SUPPORT
+93.703|ARRA - Health Center Integrated Services Development Initiative[g1]
+93.704|TRANS-NIH RECOVERY ACT LOAN REPAYMENT SUPPORT
+93.705|Aging Home - Delivered Nutrition Services for States
+93.706|Aging Nutrition Services for Native Americans
+93.707|Aging Congregate Nutrition Services for States
+93.708|ARRA - HEAD START
+93.709|ARRA EARLY HEAD START
+93.710|ARRA - COMMUNITY SERVICES BLOCK GRANT
+93.711|ARRA - STRENGTHENING COMMUNITIES FUND
+93.712|ARRA IMMUNIZATION
+93.713|ARRA - CHILD CARE AND DEVELOPMENT BLOCK GRANT
+93.714|ARRA - EMERGENCY CONTINGENCY FUND FOR TEMPORARY ASSISTANCE FOR NEEDY FAMILIES (TANF) STATE PROGRAMS
+93.715|Recovery Act - Comparative Effectiveness Research - AHRQ
+93.716|ARRA - TEMPORARY ASSISTANCE FOR NEEDY FAMILIES (TANF) SUPPLEMENTAL GRANTS
+93.717|ARRA PREVENTING HEALTHCARE-ASSOCIATED INFECTIONS
+93.718|Health Information Technology Regional Extension Centers Program
+93.719|ARRA - State Grants to Promote Health Information Technology
+93.720|ARRA-Survey and Certification Ambulatory Surgical Center Healthcare-Associated Infection (ASC-HAI) Prevention Initiative
+93.721|ARRA Health Information Technology Professionals in Health Care
+93.722|ARRA IHS Tribal Agreements
+93.723|ARRA Prevention and Wellness - State, Territories and Pacific Islands
+93.724|ARRA Prevention and Wellness - Communities Putting Prevention to Work Funding Opportunities Announcement (FOA)
+93.773|Medicare_Hospital Insurance
+93.774|Medicare_Supplementary Medical Insurance
+93.886|Aging Research
+94.006|AmeriCorps
+94.007|Planning and Program Development Grants
+94.013|Volunteers in Service to America
+96.001|Social Security - Disability Insurance
+96.002|Social Security - Retirement Insurance
+96.004|Social Security - Survivors Insurance
+96.006|Supplemental Security Income
+96.020|Special Benefits for Certain World War II Veterans
+96.021|SOCIAL SECURITY Economic Recovery Act Payments
+97.113|Rail and Transit Security Grant Program (ARRA)
+97.114|Emergency Food and Shelter National Board Program (ARRA)
+97.115|Assistance to Firefighters Grant (ARRA)
+97.116|Port Security Grant Program (ARRA)
+97.117|TSA Airport Checked Baggage Inspection System Program - (ARRA)
+97.118|Advanced Surveillance Program (ASP)
